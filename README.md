@@ -21,10 +21,6 @@ recipes/
 - [Gobi Aloo](recipes/gobialoo.html)
 - [Palak Paneer](recipes/palakpaneer.html)
 
-## Usage
-
-Open `index.html` in your browser to view the homepage and navigate to each recipe.
-
 ## Credits
 
-Recipe images and instructions are adapted from
+Recipe images and instructions are adapted from [allrecipes.com](https://www.allrecipes.com/).
